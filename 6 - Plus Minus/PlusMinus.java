@@ -16,7 +16,6 @@ public class PlusMinus {
     /**
      * Function that finds the ratio of zeroes, positive, negative numbers in the input array.
      * @param arr Integer array we need to iterate.
-     * @return Prints the ratio of zeroes, positive, negative numbers in the input array.
      */
     static void plusMinus(final int[] arr) {
         double positives = 0;
