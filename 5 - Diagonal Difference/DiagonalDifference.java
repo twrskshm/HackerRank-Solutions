@@ -20,7 +20,7 @@ public class DiagonalDifference {
      * @param arr Integer array whose sum we need to calculate.
      * @return Absolute difference between the sum of matrix's two diagonals.
      */
-    public static int diagonalDifference(List<List<Integer>> arr) {
+    public static int diagonalDifference(final List<List<Integer>> arr) {
         int result = 0;
 
         for (int row = 0; row < arr.size(); row++) {
