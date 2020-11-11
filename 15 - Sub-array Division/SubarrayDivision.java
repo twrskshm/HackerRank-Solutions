@@ -22,7 +22,7 @@ public class SubarrayDivision {
      * @param m Ron's birth month.
      * @return Returns number of ways chocolate bar can be divided.
      */
-    static int birthday(List<Integer> s, int d, int m) {
+    static int birthday(final List<Integer> s, final int d, final int m) {
         int result = 0;
         int sum = 0;
 
