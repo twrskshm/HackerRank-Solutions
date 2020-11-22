@@ -3,7 +3,7 @@
  *
  * Time complexity:
  * Worst case: Θ(1)
- * Worst case: Θ(1)
+ * Best case: Θ(1)
  *
  * Space complexity:
  * Worst case: Θ(1)
