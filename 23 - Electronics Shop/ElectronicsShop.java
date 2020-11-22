@@ -5,7 +5,7 @@ import java.util.Arrays;
  *
  * Time complexity:
  * Worst case: Θ(m * lg(m) + n * lg(n))
- * Worst case: Θ(m * lg(m) + n * lg(n))
+ * Best case: Θ(m * lg(m) + n * lg(n))
  *
  * Space complexity:
  * Worst case: Θ(1)
